@@ -7,6 +7,8 @@ Mixer de sons ambiente para dormir, focar ou relaxar: chuva, trovão, vento, mar
 - O mix fica salvo na URL (`?mix=rain.80-thunder.75`) e no `localStorage`.
 - Timer para dormir com fade out; atalhos: `Espaço` toca/pausa, `R` mix aleatório, `Esc` limpa.
 
+Fiz para uma pessoa especial 💗
+
 ```sh
 npm install
 npm run dev
